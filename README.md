@@ -13,18 +13,6 @@
 ## Mission
 Our goal is to empower Indian families with the tools they need to manage their finances more effectively and achieve greater financial stability.
 
-## Installation and Setup
-1. Clone this repository.
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Set up the local environment and integrate your bank and wallet APIs.
-4. Launch the app:
-   ```
-   python app.py
-   ```
-
 ## Contributing
 We welcome contributions to improve Bachat! Please fork the repository, make your changes, and submit a pull request.
 
